@@ -5,7 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- Bhavya V - CSE 1- S3
 
 
 
@@ -14,19 +14,19 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+A colorful Pookalam made with flower like shapes and festive colors.
 
 
 
-### Technologies Used 
+Technologies used- Turtle graphics in python.
 
 
 ### Video explaining How you build the pookalam
-
+https://drive.google.com/file/d/1uiLzOS71-hDBuPx2F_ANX36yED8a9jQw/view?usp=sharing
 
 
 ### Screenshots
-
+https://drive.google.com/file/d/1SZYqJBRr8GIKthpqKz45YoUjIiDfOKI1/view?usp=sharing
 
 
 Happy Onam ! <br>
