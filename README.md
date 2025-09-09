@@ -10,7 +10,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Hosted Pookalam Link
-
+Since it is made using Turtle it cannot be hosted on live servers.
 
 
 ### Pookalam Description
@@ -18,7 +18,8 @@ A colorful Pookalam made with flower like shapes and festive colors.
 
 
 
-Technologies used- Turtle graphics in python.
+### Technologies used
+Turtle graphics in python.
 
 
 ### Video explaining How you build the pookalam
